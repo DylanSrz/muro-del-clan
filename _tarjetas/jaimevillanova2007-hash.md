@@ -1,6 +1,6 @@
 ---
-nombre: "Tu Nombre Completo"
-celula: 1
-github: "tu-usuario-de-github"
-frase: "Una frase corta sobre ti, o lo que más te ha costado de Git"
+nombre: "jaime David Villanova Lamar "
+celula: 2
+github: "jaimevillanova2007-hash"
+frase: "no queria baken yo queria IA"
 ---
