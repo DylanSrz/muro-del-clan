@@ -1,6 +1,6 @@
 ---
-nombre: "Eduardo Pérez"
-celula: 5
-github: "eduardoperez-eng"
-frase: "Soy una persona apasionada por la programación, programar es rico."
+nombre: "Tu Nombre Completo"
+celula: 1
+github: "tu-usuario-de-github"
+frase: "Una frase corta sobre ti, o lo que más te ha costado de Git"
 ---
