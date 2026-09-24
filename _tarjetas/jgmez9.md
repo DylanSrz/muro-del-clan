@@ -1,6 +1,6 @@
 ---
-nombre: "Tu Nombre Completo"
+nombre: "Juan Camilo Gomez Gonzalez"
 celula: 1
-github: "tu-usuario-de-github"
-frase: "Una frase corta sobre ti, o lo que más te ha costado de Git"
+github: "jgmez9"
+frase: "Se me olvida traer los cambios cuando inicio el proyecto"
 ---
