@@ -1,0 +1,14 @@
+title: Muro del clan
+timezone: America/Bogota
+
+# Una entrada por célula. Si son 5, agrega el 5.
+celulas: [1, 2, 3, 4, 5]
+
+collections:
+  tarjetas:
+    output: false
+
+exclude:
+  - README.md
+  - EMERGENCIAS.md
+  - PLANTILLA-TARJETA.md
